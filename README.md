@@ -10,9 +10,8 @@
 Formado em Desenvolvimento de Sistemas pelo Coltec UFMG e cursando Sistemas de Informação na UFOP, busco por oportunidades no universo da tecnologia e da programação. Procuro sempre aprender e compartilhar novas habilidades com meus companheiros de equipe!
 
 ## 📜 Certificados
-- 🌐 Duolingo English\
+- 🌐 Duolingo English Test\
   📄 English Proficiency Certificate C1\
-  📝 Duolingo English Test\
   📅 Issued Aug 2023
 
 ## 📚 Educação
@@ -21,5 +20,5 @@ Formado em Desenvolvimento de Sistemas pelo Coltec UFMG e cursando Sistemas de I
   🗓️ Sep 2021 - Presente
 
 - 🎓 **UFMG - Universidade Federal de Minas Gerais**\
-  📖 Técnico em Desenvolvimento de Sistemas, Computer Programming/Programmer, General\
+  📖 Técnico em Desenvolvimento de Sistemas\
   🗓️ 2018 - 2020
