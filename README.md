@@ -1,6 +1,5 @@
 # 👋 Olá, sou Arthur Feu! 
 
-🎓 Estudante de programação, graduando em Sistemas de Informação e Técnico em Desenvolvimento de Sistemas
 👨‍💻 (He/Him)\
 🏫 Estudante no ICEA UFOP, estagiário na DTI Digital
 
