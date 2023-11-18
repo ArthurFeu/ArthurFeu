@@ -1,11 +1,11 @@
 # 👋 Olá, sou Arthur Feu! 
 
 🎓 Estudante de programação, graduando em Sistemas de Informação e Técnico em Desenvolvimento de Sistemas
+👨‍💻 (He/Him)\
+🏫 Estudante no ICEA UFOP, estagiário na DTI Digital
 
 🔗 [LinkedIn](https://www.linkedin.com/in/arthur-feu-89464a1b7/)
 
-👨‍💻 **Arthur Feu** (He/Him)\
-🏫 Student at ICEA UFOP, Intern at DTI Digital
 
 ## 🌟 Sobre mim
 Formado em Desenvolvimento de Sistemas pelo Coltec UFMG e cursando Sistemas de Informação na UFOP, busco por oportunidades no universo da tecnologia e da programação. Procuro sempre aprender e compartilhar novas habilidades com meus companheiros de equipe!
