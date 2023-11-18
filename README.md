@@ -20,6 +20,6 @@ Formado em Desenvolvimento de Sistemas pelo Coltec UFMG e cursando Sistemas de I
   📖 Bacharelado Sistemas de Informação\
   🗓️ Sep 2021 - Presente
 
-- 🎓 **Universidade Federal de Minas Gerais**\
+- 🎓 **UFMG - Universidade Federal de Minas Gerais**\
   📖 Técnico em Desenvolvimento de Sistemas, Computer Programming/Programmer, General\
   🗓️ 2018 - 2020
