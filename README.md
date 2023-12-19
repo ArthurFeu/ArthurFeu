@@ -14,6 +14,10 @@ Formado em Desenvolvimento de Sistemas pelo Coltec UFMG e cursando Sistemas de I
   📄 English Proficiency Certificate C1\
   📅 Issued Aug 2023
 
+- 🌐 TOEFL ITP\
+  📄 English Proficiency Certificate C1\
+  📅 Issued Dec 2023
+
 ## 📚 Educação
 - 🎓 **UFOP - Universidade Federal de Ouro Preto**\
   📖 Bacharelado Sistemas de Informação\
