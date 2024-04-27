@@ -1,7 +1,7 @@
 # 👋 Olá, sou Arthur Feu! 
 
 👨‍💻 (He/Him)\
-🏫 Estudante no ICEA UFOP, estagiário na DTI Digital
+🏫 Estudante no ICEA UFOP, exchange student at VCU
 
 🔗 [LinkedIn](https://www.linkedin.com/in/arthur-feu-89464a1b7/)
 
