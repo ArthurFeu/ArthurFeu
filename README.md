@@ -7,7 +7,7 @@
 
 
 ## 🌟 Sobre mim
-Formado em Desenvolvimento de Sistemas pelo Coltec UFMG e cursando Sistemas de Informação na UFOP, busco por oportunidades no universo da tecnologia e da programação. Procuro sempre aprender e compartilhar novas habilidades com meus companheiros de equipe!
+Formado em Desenvolvimento de Sistemas pelo Coltec UFMG e cursando Sistemas de Informação na UFOP, busco por oportunidades no universo da tecnologia e da programação.
 
 ## 📜 Certificados
 - 🌐 Duolingo English Test\
