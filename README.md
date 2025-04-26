@@ -1,15 +1,10 @@
-# 👋 Olá, sou Arthur Feu! 
-
-👨‍💻 (He/Him)\
-🏫 Estudante no ICEA UFOP, exchange student at VCU
-
+# 👋 Hi, I'm Arthur Feu!
 🔗 [LinkedIn](https://www.linkedin.com/in/arthur-feu-89464a1b7/)
 
+## About Me
+Software Engineer, graduated in Software Development at Coltec UFMG and in Information Systems at UFOP. I am passionate about technology and programming, always looking for opportunities to grow in the field.
 
-## 🌟 Sobre mim
-Formado em Desenvolvimento de Sistemas pelo Coltec UFMG e cursando Sistemas de Informação na UFOP, busco por oportunidades no universo da tecnologia e da programação.
-
-## 📜 Certificados
+## 📜 Certificates
 - 🌐 Duolingo English Test\
   📄 English Proficiency Certificate C1\
   📅 Issued Aug 2023
@@ -18,11 +13,11 @@ Formado em Desenvolvimento de Sistemas pelo Coltec UFMG e cursando Sistemas de I
   📄 English Proficiency Certificate C1\
   📅 Issued Dec 2023
 
-## 📚 Educação
-- 🎓 **UFOP - Universidade Federal de Ouro Preto**\
-  📖 Bacharelado Sistemas de Informação\
-  🗓️ Sep 2021 - Presente
+## 📚 Education
+- 🎓 **UFOP - Federal University of Ouro Preto**\
+  📖 B.Sc. in Information Systems\
+  🗓️ Sep 2021 - Apr 2025
 
-- 🎓 **UFMG - Universidade Federal de Minas Gerais**\
-  📖 Técnico em Desenvolvimento de Sistemas\
+- 🎓 **UFMG - Federal University of Minas Gerais**\
+  📖 Technical Degree in Software Development\
   🗓️ 2018 - 2020
