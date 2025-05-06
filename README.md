@@ -14,6 +14,10 @@ Software Engineer, graduated in Software Development at Coltec UFMG and in Infor
   📅 Issued Dec 2023
 
 ## 📚 Education
+- 🎓 **VCU - Virginia Commonwealth University**\
+  📖 Exchange program in Computer Science\
+  🗓️ Jan 2024 - May 2025
+  
 - 🎓 **UFOP - Federal University of Ouro Preto**\
   📖 B.Sc. in Information Systems\
   🗓️ Sep 2021 - Apr 2025
